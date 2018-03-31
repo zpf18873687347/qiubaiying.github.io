@@ -2,14 +2,14 @@
 layout:     post
 title:     【原创】ESAA-Development-process
 subtitle:   Github
-date:       2018-03-29
+date:       2018-01-29
 author:     Bob
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Git
 ---
-# How ESAA development is organized
+ How ESAA development is organized
 **Golden rules:**  
 * Never ever work on the __master__ branch. This branch should always reflects the code currently running on production.
 * Development occurs on the __next__ branch
