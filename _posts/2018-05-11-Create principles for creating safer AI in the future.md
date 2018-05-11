@@ -10,6 +10,8 @@ tags:
     - Blog, AI，Technology
 ---
 <font size="4" face="Times New Roman">
+<br>
+<br>
 There is no denying that 2018 Google I/O has become the focus of much attention and popularity recently. Google's annual developer conference kicks off on May.8th in the dome of the Google Park.
 </font>
 ![](http://n.sinaimg.cn/tech/gif_image/136/w600h336/20180511/S1NK-haichra0677780.gif)
@@ -42,16 +44,21 @@ In general, Stuart's 3 safer principles are machines that are altruistic, who wa
 <font size="4" face="Times New Roman">
 In fact, we have reasons for optimism. Since there is a massive amount of data, and they are going to read everything the human race has ever written and thinking. Most of what we write about is human beings doing things or our own thoughts. That means robots can learn and understand from massive amount of data that human beings input in daily life， and robot will learn to become much smart than before. I totally agree with the view from Stuart, Our entire civilization, everything that we value, is based on our intelligence. And if we had access to a lot more intelligence, then there's really no limit to what the human race can do. So there is absolutely no need for too much fear of AI in the future.   
 <br>
+<br>
+
+
 
 As for human beings, repetitive and worthless labor will be replaced by AI machine which has a good news indeed. In this way, human beings can have the motivation to learn more advanced skills, get start with more valuable things, and have more time to accompany our families.That is supposed to be our original intention and expectation.    
 <br>
+<br>
+
 
 This is the best era and the worst as well. The era of artificial intelligence has arrived already. What we can do is that to get start with AI technology learning and machine learing, to enrich our knowledge and establish a strong skill system, which can help human beings get more competitive and challenging in the future.   
 
 </font>
 
-
-
+<br>
+<br>
 
 
 Reference：
