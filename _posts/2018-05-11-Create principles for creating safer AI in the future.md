@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     【原创】Create principles for creating safer AI in the future
-subtitle:   3 principles for creating safer AI
+subtitle:   How AI changes human beings life
 date:       2018-05-11
 author:     Bob
 header-img: img/post-bg-universe.jpg
@@ -52,6 +52,9 @@ As for human beings, repetitive and worthless labor will be replaced by AI machi
 <br>
 <br>
 
+There is a joke like the machines are all learning, why do people not learn? As we know, machine learning technology is the core technology of the new enthusiasm of AI. Whether it is robots, natural language processing, intelligent vision or drones are closely related to the intervention of machine learning technology. Machine learning occupies 60% of AI's investment. It demonstrates that each of us need to get started with machine learning.
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fr7n0q5milj30zg0lm750.jpg)
+<br>
 
 This is the best era and the worst as well. The era of artificial intelligence has arrived already. What we can do is that to get start with AI technology learning and machine learing, to enrich our knowledge and establish a strong skill system, which can help human beings get more competitive and challenging in the future.   
 
