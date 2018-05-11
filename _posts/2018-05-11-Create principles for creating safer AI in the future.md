@@ -34,8 +34,7 @@ AI pioneer Stuart Russell has proposed 3 principles for creating safer AI and de
 In general, Stuart's 3 safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. This kind of scenario is supposed to be intelligence of the robot get along with people from my opions.
 </font>
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1fr7jiurfmxj31620qgq7f.jpg)
-      [*Click here to locate to the TED talk video*]
-(https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai)
+      [*Click here to locate to the TED talk video*](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai)
 
 
 <font size="4" face="Times New Roman">
@@ -52,14 +51,11 @@ This is the best era and the worst as well. The era of artificial intelligence h
 
 Reference：
 
-[*2018 Google I/O focus*]
-(https://www.zhihu.com/question/275930989/answer/386942714?from=timeline&utm_medium=social&utm_member=YTdmNWNjYTk1YTA1N2IxMzQ0MmQ2NWQzYmNhOWI0NmU%3D%0A&utm_source=wechat_session)
+[*2018 Google I/O focus*](https://www.zhihu.com/question/275930989/answer/386942714?from=timeline&utm_medium=social&utm_member=YTdmNWNjYTk1YTA1N2IxMzQ0MmQ2NWQzYmNhOWI0NmU%3D%0A&utm_source=wechat_session)
 
-[*Three principles for creating safer AI*]
-(https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai)
+[*Three principles for creating safer AI*](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai)
 
-[*A Deep Learing of the legend of the godfather*]
-(https://open.163.com/movie/2017/8/9/9/MCS5AQH7J_MCS5PHV99.html)
+[*A Deep Learing of the legend of the godfather*](https://open.163.com/movie/2017/8/9/9/MCS5AQH7J_MCS5PHV99.html)
 
 
 
