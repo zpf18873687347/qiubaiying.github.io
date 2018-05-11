@@ -21,7 +21,7 @@ If AI is the tool that everyone needs in the future, then perhaps no company kno
 <font size="4" face="Times New Roman">
 Obviously, these examples above are totally all aspects of AI's convenience to humans. However, has anyone ever thought about the potential threat that AI will bring to humanity in the future? At least it is a breeze to grab human's rice bowl, right? Professor Kaplan from Stanford made a statistic that 47% of the 720 jobs registered in the United States will be replaced by artificial intelligence.
 </font>
-![](https://mmbiz.qpic.cn/mmbiz_gif/vtsJ355TyuZpbpbickbWpxAiafnXtJbtwriaH2fJCwYjzbGTcm8CQ6Tz4f9eh3rTtacov1bdHh8o6UJPqBJ1IHNXA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fr7kvtxbmxg30bn06hn87.gif)
 
 <font size="4" face="Times New Roman">
 Do you remember that moment when AlphaGo defeated Lee Sedol last year? Where we realize that AI is actually progressing a great faster than we expected during recent years. So why are people saying things like this, that AI might spell the end of the human race? Will robots rule all humans like Hollywood's plot in the future? These things sound like they are just a false alarm，but actually not! 
