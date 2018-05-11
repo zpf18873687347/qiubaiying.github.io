@@ -11,21 +11,13 @@ tags:
 ---
 <font size="4" face="Times New Roman">
 There is no denying that 2018 Google I/O has become the focus of much attention and popularity recently. Google's annual developer conference kicks off on May.8th in the dome of the Google Park.
-
 ![](http://n.sinaimg.cn/tech/gif_image/136/w600h336/20180511/S1NK-haichra0677780.gif)
-
 If AI is the tool that everyone needs in the future, then perhaps no company knows how it is more suitable and how to use it than Google. Sundar Pichai, CEO of Google, came straight to the topic after the stage and talked about how AI technology diagnoses diseases, how Google Assistant can help us intelligently and how AI works in automatic driving technology.
-
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fr7ebwubz4j30hs0b3weu.jpg)
-
 Obviously, these examples above are totally all aspects of AI's convenience to humans. However, has anyone ever thought about the potential threat that AI will bring to humanity in the future? At least it is a breeze to grab human's rice bowl, right? Professor Kaplan from Stanford made a statistic that 47% of the 720 jobs registered in the United States will be replaced by artificial intelligence.
-
 ![](https://mmbiz.qpic.cn/mmbiz_gif/vtsJ355TyuZpbpbickbWpxAiafnXtJbtwriaH2fJCwYjzbGTcm8CQ6Tz4f9eh3rTtacov1bdHh8o6UJPqBJ1IHNXA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
-
 Do you remember that moment when AlphaGo defeated Lee Sedol last year? Where we realize that AI is actually progressing a great faster than we expected during recent years. So why are people saying things like this, that AI might spell the end of the human race? Will robots rule all humans like Hollywood's plot in the future? These things sound like they are just a false alarm，but actually not! 
-
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fr7h3y26hwj30hs0a00t2.jpg)
-
 AI pioneer Stuart Russell has proposed 3 principles for creating safer AI and demonstrated how we can harness the benifits of AI while also preventing the catastrophe of robotic takeover in TED talk, which has been the most significant prediction regarding the development of AI that I had ever watched.
 
 In general, Stuart's 3 safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. This kind of scenario is supposed to be intelligence of the robot get along with people from my opions.
