@@ -30,7 +30,7 @@ Do you remember that moment when AlphaGo defeated Lee Sedol last year? Where we 
 
 <font size="4" face="Times New Roman">
 AI pioneer Stuart Russell has proposed 3 principles for creating safer AI and demonstrated how we can harness the benifits of AI while also preventing the catastrophe of robotic takeover in TED talk, which has been the most significant prediction regarding the development of AI that I had ever watched.    
-
+</br>
 
 
 In general, Stuart's 3 safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. This kind of scenario is supposed to be intelligence of the robot get along with people from my opions.
@@ -41,10 +41,10 @@ In general, Stuart's 3 safer principles are machines that are altruistic, who wa
 
 <font size="4" face="Times New Roman">
 In fact, we have reasons for optimism. Since there is a massive amount of data, and they are going to read everything the human race has ever written and thinking. Most of what we write about is human beings doing things or our own thoughts. That means robots can learn and understand from massive amount of data that human beings input in daily life， and robot will learn to become much smart than before. I totally agree with the view from Stuart, Our entire civilization, everything that we value, is based on our intelligence. And if we had access to a lot more intelligence, then there's really no limit to what the human race can do. So there is absolutely no need for too much fear of AI in the future.   
-
+</br>
 
 As for human beings, repetitive and worthless labor will be replaced by AI machine which has a good news indeed. In this way, human beings can have the motivation to learn more advanced skills, get start with more valuable things, and have more time to accompany our families.That is supposed to be our original intention and expectation.    
-
+</br>
 
 This is the best era and the worst as well. The era of artificial intelligence has arrived already. What we can do is that to get start with AI technology learning and machine learing, to enrich our knowledge and establish a strong skill system, which can help human beings get more competitive and challenging in the future.   
 
