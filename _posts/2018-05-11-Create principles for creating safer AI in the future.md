@@ -33,7 +33,7 @@ Do you remember that moment when AlphaGo defeated Lee Sedol last year? Where we 
 <font size="4" face="Times New Roman">
 AI pioneer Stuart Russell has proposed 3 principles for creating safer AI and demonstrated how we can harness the benifits of AI while also preventing the catastrophe of robotic takeover in TED talk, which has been the most significant prediction regarding the development of AI that I had ever watched.    
 <br>
-
+<br>
 
 In general, Stuart's 3 safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. This kind of scenario is supposed to be intelligence of the robot get along with people from my opions.
 </font>
