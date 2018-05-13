@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:     【原创】Create principles for creating safer AI in the future
-subtitle:   How AI changes human beings life and how we can adapt
+title:     【原创】Create principles for creating safer AI
+subtitle:   How AI will changes human beings life and how we can adapt to
 date:       2018-05-11
 author:     Bob
 header-img: img/post-bg-universe.jpg
@@ -13,7 +13,7 @@ tags:
 <br>
 <br>
 
-### 2018 Google I/O Conference
+## **2018 Google I/O Conference**
 <br>
 There is no denying that 2018 Google I/O has become the focus of much attention and popularity recently. Google's annual developer conference kicks off on May.8th in the dome of the Google Park.
 </font>
@@ -26,7 +26,7 @@ If AI is the tool that everyone needs in the future, then perhaps no company kno
 
 <font size="4" face="Times New Roman">
 
-### Will AI threaten the future of humanity?
+## **Will AI threaten the future of humanity?**
 <br>
 
 Obviously, these examples above are totally all aspects of AI's convenience to humans. However, has anyone ever thought about the potential threat that AI will bring to humanity in the future? At least it is a breeze to grab human's rice bowl, right? Professor Kaplan from Stanford made a statistic that 47% of the 720 jobs registered in the United States will be replaced by artificial intelligence.
@@ -49,7 +49,7 @@ The running robots show that Boston Dynamics is far from achieving their long-te
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fra6abkg3wg30dc07ikjl.gif)
 
 <font size="4" face="Times New Roman">
-### Stuart proposed principles for creating safer AI
+## **Stuart proposed principles for creating safer AI**
 <br>
 However, AI pioneer Stuart Russell has proposed 3 principles for creating safer AI and demonstrated how we can harness the benifits of AI while also preventing the catastrophe of robotic takeover in TED talk, which has been the most significant prediction regarding the development of AI that I had ever watched.    
 <br>
@@ -74,7 +74,7 @@ As for human beings, the ideal state of the future is that although AI has made 
 <br>
 <br>
 
-### How human beings adapt to AI era's coming
+## **How human beings adapt to AI era's coming**
 <br>
 
 There is a joke like the machines are all learning, why do people not learn? Are you still anxious that your job will be replaced by AI? Looking for areas related to your expertise and what else will be involved in AI, then develop and improve the knowledge and skills needed for these areas of work. As we know, machine learning technology is the core technology of the new enthusiasm of AI. Whether it is robots, natural language processing, intelligent vision or drones are closely related to the intervention of machine learning technology. Machine learning occupies 60% of AI's investment. 
