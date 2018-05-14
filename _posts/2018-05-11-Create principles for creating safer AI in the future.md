@@ -25,9 +25,9 @@ If AI is the tool that everyone needs in the future, then perhaps no company kno
 </font>
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fr7ebwubz4j30hs0b3weu.jpg)
 
+<br>
 
-
-## Will AI threaten the future of humanity?
+## Will AI threaten our human beings in the future?
 <br>
 <font size="4" face="Times New Roman">
 Obviously, these examples above are totally all aspects of AI's convenience to humans. However, has anyone ever thought about the potential threat that AI will bring to humanity in the future? At least it is a breeze to grab human's rice bowl, right? Professor Kaplan from Stanford made a statistic that 47% of the 720 jobs registered in the United States will be replaced by artificial intelligence.
@@ -44,7 +44,9 @@ Do you remember that moment when AlphaGo defeated Lee Sedol last year? Where we 
 </font>
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fr7h3y26hwj30hs0a00t2.jpg)
 <font size="4" face="Times New Roman">
-The running robots show that Boston Dynamics is far from achieving their long-term goal—making robots like real humans and animals is not too far away.Whether it is production, scientific research or daily life, the world will experience a disruptive revolution with AI era's coming. Even Elon Musk alerted that our human beings need to be extremely careful with artificial intelligence, they are more dangerous than nuclear weapons!
+The running robots show that Boston Dynamics is achieving their long-term goal    which making robots like real humans and animals is not too far away.Whether it is production, scientific research or daily life, the world will experience a disruptive revolution with AI era's coming. 
+<br>
+Even Elon Musk alerted that our human beings need to be extremely careful with artificial intelligence, they are more dangerous than nuclear weapons!
 
 </font>
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fra6abkg3wg30dc07ikjl.gif)
@@ -57,7 +59,10 @@ However, AI pioneer Stuart Russell has proposed 3 principles for creating safer 
 <br>
 
 
-In general, Stuart is going to prove that AI is beneficial to humans, and the benefits alsolutely outweigh the disadvantages. Stuart's three safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. This kind of scenario is supposed to be intelligence of the robot get along with people from my opions.
+In general, Stuart is going to prove that AI is beneficial to humans, and the benefits alsolutely outweigh the disadvantages. Stuart's three safer principles are machines that are altruistic, who wants to achieve only our objectives, but that are uncertain about what those objectives are, and will watch all of us to learn more about what it is that we really want. 
+<br>
+Just imagine if you are hungry and there is no any foods at home,then robot sees the cat and robot may be going to cook a cat hotpot for you...So scientists have to let robot learn the human value function properly and understand the sentimental value of the cat outweights its nutrition from massive amount of data and human's custom.
+
 </font>
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1fr7jiurfmxj31620qgq7f.jpg)
       [*Click here to locate to the TED talk video*](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai)
